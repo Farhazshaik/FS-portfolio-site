@@ -68,3 +68,15 @@ nav ul li a {
 nav ul li a:hover {
     text-decoration: underline;
 }
+/* If you haven't already, add this for general article styling */
+article {
+    margin-bottom: 40px;
+}
+
+/* Add this for consistent h2 styling across sections */
+article h2 {
+    font-size: 1.8em;
+    font-weight: 500;
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
